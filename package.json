@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "fbx2gltf": "^0.9.7-p1",
+    "multer": "^1.4.5-lts.2"
+  }
+}
